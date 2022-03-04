@@ -159,6 +159,9 @@ nav .fa{
  .course-col:hover{
      box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
  }
+ .abc{
+     width: 50%;
+ }
  @media(max-width: 700px){
      .row{
          flex-direction: column;
